@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.ress{
+    height: 600px;
+}
+body{
+    padding-top: 50px;
+     font-family: 'Raleway', sans-serif;;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+.ayrac{
+    border: none;
+   border-top: 3px solid #343a34; 
+   max-width: 250px;
+   margin: 25px auto;
+}
+.ibeyaz{
+    color: #343a34;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #fff;
+    background-color: #fff;
+}
+.igri{
+    color: #343a34;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+
+}
+.ekipCard :hover{
+    opacity:0.8;
+    
+}
+.Galeri{
+    background-color: #f2f2f2;
+}
+.figure:hover{
+    opacity:0.8;
+}
